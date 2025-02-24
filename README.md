@@ -1,4 +1,4 @@
-# Execícios em Python - Iniciante
+# Exercises in Python - Beginner Level
 
 ## Status : Under Development
 
